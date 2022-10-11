@@ -1,0 +1,23 @@
+@import 'https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&family=Shrikhand&display=swap';
+*, ::before, ::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
+
+header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 25px;
+}
+header h1 {
+  font-size: 35px;
+  font-family: "Shrikhand", serif;
+}
+
+#searchbar {
+  background-color: beige;
+  color: red;
+}/*# sourceMappingURL=main.css.map */
